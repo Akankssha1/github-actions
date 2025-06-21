@@ -1,0 +1,29 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akankssha1/github-actions.git"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "ci/cd",
+    "automation",
+    "devops"
+  ],
+  "author": "akankssha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akankssha1/github-actions/issues"
+  },
+  "homepage": "https://github.com/Akankssha1/github-actions#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
